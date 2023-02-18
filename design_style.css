@@ -56,9 +56,11 @@ br {
   margin-top: 20px;
   padding: 0px;
 }
-.profile{
-  border-radius: 100%;
-  width: 80%;
+.profile {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
 }
 .col-sm-4{
   margin: 20px;
